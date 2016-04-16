@@ -4,6 +4,7 @@
 *   [Высокое искусство](http://www.chukfamily.ru/Kornei/Prosa/Vysokoe/vysokoe.htm) Корнея Ивановича Чуковского.
 *   [Дневник наблюдений за редакторами](http://booknik.ru/colonnade/facts/dnevnik-nablyudeniyi-za-redaktorami/).
 *   [Дневник наблюдений за переводчиками](http://booknik.ru/colonnade/facts/dnevnik-nablyudeniyi-za-perevodchikami/).
+*   [Дневник наблюдений за читателями](http://booknik.ru/today/facts/dnevnik-nablyudeniyi-za-chitatelyami/)
 *   [Англо-русский словарь ложных друзей переводчика](http://www.falsefriends.ru/ffslovar.htm).
 *   [Заметки о переводе](http://lingvoda.ru/transforum/translation_essays.asp).
 *   [Материалы о переводе](http://www.thinkaloud.ru/featureak.html) - сборник книг и статей о переводе и переводчиках.
